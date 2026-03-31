@@ -1,0 +1,5 @@
+export const CANVAS_W     = 900
+export const CANVAS_H     = 500
+export const GRAVITY      = 0.55
+export const JUMP_FORCE   = -13
+export const PLAYER_SPEED = 4
